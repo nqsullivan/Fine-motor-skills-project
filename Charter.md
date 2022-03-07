@@ -59,12 +59,12 @@ The deliverables of our project will be the app we are creating (finishing and c
 | 11/26/20 | No Lecture - Thanksgiving |
 | 12/1/20 | Demonstration |
 
-# Project Customers &amp; Stakeholders
+## Project Customers &amp; Stakeholders
 
 The customers are the stroke patients that will be using our application. 
 The stakeholders of this project are the family, doctors, and physical therapists of those patients.
 
-# Team Members &amp; Roles
+## Team Members &amp; Roles
 
 _State the team members, as well as the roles they might play on the team. Some examples of roles are Documentation, Robot Design, Robot Programming, and Project Manager._
 
