@@ -2,7 +2,7 @@ Group 4: Joshua Budd, Abdur Naveed, Ryan Keyser, Nathaniel Sullivan
 
 # Brain Storming
 
- **Customer: Stroke patients**
+ The customer this program is designed for is stroke patients
  
  ## Possible Games
 - Pong
@@ -55,6 +55,6 @@ Group 4: Joshua Budd, Abdur Naveed, Ryan Keyser, Nathaniel Sullivan
 
 **GUI Options:**
 1. Free choice, streak calendar (selected)
-  - When the app is opened, the user is presented with three buttons corresponding to the three activities, they can choose any that they like. Every day they open the app and play a game, it is recorded in their streak calendar. This will act as an incentive to keep playing (they don&#39;t want streak to break), but will also allow them to customize game aspects the longer the streak is.
+   - When the app is opened, the user is presented with three buttons corresponding to the three activities, they can choose any that they like. Every day they open the app and play a game, it is recorded in their streak calendar. This will act as an incentive to keep playing (they don&#39;t want streak to break), but will also allow them to customize game aspects the longer the streak is.
 2. Pretest based
-  - When a new user joins, they are presented with a pretest where they play all three games. After that the user will be suggested which game to play depending on their weakest skills.
+   - When a new user joins, they are presented with a pretest where they play all three games. After that the user will be suggested which game to play depending on their weakest skills.
