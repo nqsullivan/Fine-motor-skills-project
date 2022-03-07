@@ -1,7 +1,10 @@
 Group 4: Joshua Budd, Abdur Naveed, Ryan Keyser, Nathaniel Sullivan
 
- Customer: Stroke patients
+# Brain Storming
 
+ **Customer: Stroke patients**
+ 
+ ## Possible Games
 - Pong
 - Guitar hero
 - Block placing
@@ -18,70 +21,40 @@ Group 4: Joshua Budd, Abdur Naveed, Ryan Keyser, Nathaniel Sullivan
 | Shooting practice | Fast and precise movement | mouse | visual | Random circles appear on screen, the player needs to move the mouse and click on the circle before it disappears. |
 | Simon says typing | Repetitive movement | keyboard | visual | Words appear on the screen, the player needs to type them out, as fast and accurately as possible. |
 
-**GUI Options**
 
+**GUI Options**
 - User is given every exercise one by one and it repeats
 - Pre-test to gauge weaknesses, user given exercises they are weakest in
 - User has free choice on which ones they want to play
 - Streak calendar
 
-**Activity Decision Table**
+## Activity Decision Table
 
-| Criteria | Weight |
- | Pong | Guitar Hero | Block Placing | Line Drawing | Shooting Practice | Simon Says Typing |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Effective in helping motor skills | 10 |
- | 2 | 1 | 3 | 5 | 6 | 4 |
-| Game Difficulty | 3 |
- | 2 | 4 | 3 | 5 | 6 | 1 |
-| Engaging | 6 |
- | 2 | 5 | 4 | 3 | 6 | 1 |
-| Uniqueness | 5 |
- | 5 | 6 | 1 | 3 | 2 | 4 |
-|
- |
- |
- |
- |
- |
- |
- |
- |
- |
-| Totals |
- |
- | 63 | 82 | 68 | 98 | 124 | 69 |
+| Criteria | Weight | Pong | Guitar Hero | Block Placing | Line Drawing | Shooting Practice | Simon Says Typing |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Effective in helping motor skills | 10 | 2 | 1 | 3 | 5 | 6 | 4 |
+| Game Difficulty | 3 | 2 | 4 | 3 | 5 | 6 | 1 |
+| Engaging | 6 | 2 | 5 | 4 | 3 | 6 | 1 |
+| Uniqueness | 5 | 5 | 6 | 1 | 3 | 2 | 4 |
+| Totals | 21 | 63 | 82 | 68 | 98 | 124 | 69 |
 
-**GUI Decision Table**
 
-| Criteria | Weight |
- | Pretest based | Free choice, streak calendar |
-| --- | --- | --- | --- | --- |
-| Visually Appealing | 4 |
- | 1 | 2 |
-| Ease of use | 6 |
- | 2 | 1 |
-| Engaging | 3 |
- | 1 | 2 |
-|
- |
- |
- |
- |
- |
-| Totals |
- |
- | 19 | 20 |
+## GUI Decision Table
 
-Selected Activities:
+| Criteria | Weight | Pretest based | Free choice, streak calendar |
+| --- | --- | --- | --- |
+| Visually Appealing | 4 | 1 | 2 |
+| Ease of use | 6 | 2 | 1 |
+| Engaging | 3 | 1 | 2 |
+| Totals | 13 | 19 | 20 |
 
+**Selected Activities:**
 1. Shooting Practice Game
 2. Line Drawing
 3. Guitar Hero
 
-GUI Options:
-
+**GUI Options:**
 1. Free choice, streak calendar (selected)
-  1. When the app is opened, the user is presented with three buttons corresponding to the three activities, they can choose any that they like. Every day they open the app and play a game, it is recorded in their streak calendar. This will act as an incentive to keep playing (they don&#39;t want streak to break), but will also allow them to customize game aspects the longer the streak is.
+  - When the app is opened, the user is presented with three buttons corresponding to the three activities, they can choose any that they like. Every day they open the app and play a game, it is recorded in their streak calendar. This will act as an incentive to keep playing (they don&#39;t want streak to break), but will also allow them to customize game aspects the longer the streak is.
 2. Pretest based
-  1. When a new user joins, they are presented with a pretest where they play all three games. After that the user will be suggested which game to play depending on their weakest skills.
+  - When a new user joins, they are presented with a pretest where they play all three games. After that the user will be suggested which game to play depending on their weakest skills.
