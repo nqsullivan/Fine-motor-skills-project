@@ -1,6 +1,6 @@
 Group 4: Joshua Budd, Abdur Naveed, Ryan Keyser, Nathaniel Sullivan
 
-# Brain Storming
+# Brainstorming
 
  The customer this program is designed for is stroke patients
  
