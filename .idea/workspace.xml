@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edfb3ba7-7ca3-4ed2-95bc-4b328ab4d98a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/guitarHero.js" beforeDir="false" afterPath="$PROJECT_DIR$/Program/Guitar Hero Game/guitarHero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/guitarHero.png" beforeDir="false" afterPath="$PROJECT_DIR$/Program/Guitar Hero Game/guitarHero.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Program/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/lineDraw.js" beforeDir="false" afterPath="$PROJECT_DIR$/Program/Line Draw Game/lineDraw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/p5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Program/libraries/p5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/p5.sound.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Program/libraries/p5.sound.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/targetPractice.js" beforeDir="false" afterPath="$PROJECT_DIR$/Program/Target Practice Game/targetPractice.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
