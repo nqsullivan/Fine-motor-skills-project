@@ -66,8 +66,6 @@ The stakeholders of this project are the family, doctors, and physical therapist
 
 ## Team Members &amp; Roles
 
-_State the team members, as well as the roles they might play on the team. Some examples of roles are Documentation, Robot Design, Robot Programming, and Project Manager._
-
 _Documentation/Quality Assurance -_ Abdur Naveed
 
 _Designer -_ Ryan Keyser
