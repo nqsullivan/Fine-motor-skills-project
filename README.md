@@ -5,12 +5,12 @@ Joshua Budd, Abdur Naveed, Ryan Keyser, Nathaniel Sullivan
 This project was started to aid adults who are recovering from strokes in regaining their fine motor skills. This was acomplished through the creation of an app in p5.js in which a user can play some simple games that facilitate growth of fine motor skills. We used object oriented JavaScript and designed a state engine to create a asthetic and effective user interface
 
 ## Table of Contents
-1. [Brainstorming](https://github.com/nqsullivan/Fine-motor-skills-project/new/main?readme=1#brainstorming)
-2. [Project Charter](https://github.com/nqsullivan/Fine-motor-skills-project/new/main?readme=1#project-charter)
-3. [Milestone 1: Excercises](https://github.com/nqsullivan/Fine-motor-skills-project/new/main?readme=1#Milestone-1--Excercises)
-4. [App Code](https://github.com/nqsullivan/Fine-motor-skills-project/new/main?readme=1#App-Code)
-5. [User Testing](https://github.com/nqsullivan/Fine-motor-skills-project/new/main?readme=1#User-Testing)
-6. [Progress Reports / Gantt Charts](https://github.com/nqsullivan/Fine-motor-skills-project/new/main?readme=1#progress-reports--gantt-charts)
+1. [Brainstorming](https://github.com/nqsullivan/Fine-motor-skills-project/edit/main/README.md#brainstorming)
+2. [Project Charter](https://github.com/nqsullivan/Fine-motor-skills-project/edit/main/README.md#project-charter)
+3. [Milestone 1: Excercises](https://github.com/nqsullivan/Fine-motor-skills-project/edit/main/README.md#milestone-1-excercises)
+4. [App Code](https://github.com/nqsullivan/Fine-motor-skills-project/edit/main/README.md#application-code)
+5. [User Testing](https://github.com/nqsullivan/Fine-motor-skills-project/edit/main/README.md#user-testing)
+6. [Progress Reports / Gantt Charts](https://github.com/nqsullivan/Fine-motor-skills-project/edit/main/README.md#progress-reports--gantt-charts)
 
 ## Brainstorming
 In the [Brainstorming.md](https://github.com/nqsullivan/Fine-motor-skills-project/blob/main/Brianstorming.md) file we brainstorm different ways we could help those rescovering from strokes using our program. To do this we start with a list of 6 possible games we could code. We then rank these games 1-6 in catagories of effectivness in helping motor skills, difficulty, engagement, and uniqueness. By tallying up these rankings and taking in to account a weighting for how much these catagories matter, we are given a score we can use to determine the best way to help stroke victims. Using this score we determined that the best games were shooting practive, line drawing, and a homemade guitar hero game.
@@ -25,7 +25,7 @@ To start our project we layed out in [Milestone 1](https://github.com/nqsullivan
 For the actual application the code can be broken up into four catagories CSS/HTML, Menu UI, Games, and master application but for this application the CSS/HTML is extreemly basic so we will only go into depth on the Menu UI, Games, and master application
 
 ### Master
-1. In the master file we first have a setup function which initiates our application canvas as well as running the setup function for all of the games/menus
+1. In the [master file](https://github.com/nqsullivan/Fine-motor-skills-project/blob/main/Program/master.js) we first have a setup function which initiates our application canvas as well as running the setup function for all of the games/menus
 2. We then have a draw function which is called throughout the life of the application. It is in this function that we have our main state functions
     - State 0: Main Menu
     - State 1: Target Practice Game
